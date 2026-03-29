@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá! Eu sou João Pedro Sabbadin
 
-<!--
-**jpsabbadin/jpsabbadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do Ensino Médio Integrado ao Técnico em Informática para Internet (ETEC)  
+📊 Técnico em Contabilidade (concluído)  
+💻 Interesse em desenvolvimento web, tecnologia e dados  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Sou uma pessoa proativa, organizada e com grande interesse em tecnologia. Gosto de aprender novas ferramentas, desenvolver soluções práticas e transformar ideias em projetos.
+
+---
+
+## 💻 Conhecimentos
+- HTML, CSS e lógica de programação  
+- Noções de desenvolvimento web  
+- Organização de sistemas e informações  
+- Conhecimentos administrativos e contábeis  
+
+---
+
+## 📁 Projeto
+**Sistema Web (Clínica) – ETEC**  
+Desenvolvimento em grupo com foco na organização de páginas e estrutura do sistema.
+
+---
+
+## 📫 Contato
+📧 jpsabbadin@gmail.com  
+📍 Fernandópolis - SP  
+
+[![Instagram](https://img.shields.io/badge/@Sabbadinn__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Sabbadinn_)
