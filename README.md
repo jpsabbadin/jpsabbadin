@@ -26,7 +26,8 @@ Desenvolvimento em grupo com foco na organização de páginas e estrutura do si
 ---
 
 ## 📫 Contato
-📧 jpsabbadin@gmail.com  
 📍 Fernandópolis - SP  
+
+[![Email](https://img.shields.io/badge/jpsabbadin%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpsabbadin@gmail.com)
 
 [![Instagram](https://img.shields.io/badge/@Sabbadinn__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Sabbadinn_)
