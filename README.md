@@ -30,4 +30,6 @@ Desenvolvimento em grupo com foco na organização de páginas e estrutura do si
 
 [![Email](https://img.shields.io/badge/jpsabbadin%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpsabbadin@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/jpsabbadin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jpsabbadin)
+
 [![Instagram](https://img.shields.io/badge/@Sabbadinn__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Sabbadinn_)
