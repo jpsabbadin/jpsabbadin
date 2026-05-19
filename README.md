@@ -19,8 +19,16 @@ Sou uma pessoa proativa, organizada e com grande interesse em tecnologia. Gosto 
 
 ---
 
+## 🛠️ Linguagens e Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,react,postgres,vscode" />
+</p>
+
+---
+
 ## 📁 Projeto
-**Sistema Web (Clínica) – ETEC**  
+### Sistema Web (Clínica) – ETEC
 Desenvolvimento em grupo com foco na organização de páginas e estrutura do sistema.
 
 ---
