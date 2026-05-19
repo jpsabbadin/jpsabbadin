@@ -41,3 +41,5 @@ Desenvolvimento em grupo com foco na organização de páginas e estrutura do si
 [![LinkedIn](https://img.shields.io/badge/@jpsabbadin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-sabbadin-de-oliveira-15a5553bb)
 
 [![Instagram](https://img.shields.io/badge/@Sabbadinn__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Sabbadinn_)
+
+[![Linktree](https://img.shields.io/badge/%20Meu%20Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jpsabbadin)
