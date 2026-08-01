@@ -27,12 +27,6 @@ Sou uma pessoa proativa, organizada e com grande interesse em tecnologia. Gosto 
 
 ---
 
-## 📁 Projeto
-### Sistema Web (Clínica) – ETEC
-Desenvolvimento em grupo com foco na organização de páginas e estrutura do sistema.
-
----
-
 ## 📫 Contato
 📍 Fernandópolis - SP  
 
